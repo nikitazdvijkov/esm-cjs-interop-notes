@@ -1,0 +1,8 @@
+{
+  "name": "esm-cjs-interop-notes",
+  "version": "1.0.0",
+  "description": "CommonJS & ES Modules Interop Notes",
+  "main": "index.mjs",
+  "author": "Nikita Zdvijkov",
+  "license": "ISC"
+}
